@@ -1,1 +1,13 @@
-exe
+#dir
+up.push
+.debug/
+.test/
+.mainrcs/
+#file
+.*.debug
+*.debug.luau
+.rcs.luau
+.*
+#update
+update.comming/
+disnable/
