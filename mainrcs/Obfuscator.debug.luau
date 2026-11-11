@@ -1,4 +1,4 @@
-#not found game - Obfuscator
+-- not found the game Obfuscator = false
 task.spawn(function()
     local errorMessage = "Warning: Not support the this game."
     
