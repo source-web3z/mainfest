@@ -2,7 +2,7 @@
 up.push
 .debug/
 .test/
-.mainrcs/
+mainrcs/
 #file
 .*.debug
 *.debug.luau
