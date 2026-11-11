@@ -18,7 +18,7 @@ end)
 if success and sha256Hash then
     print("crypt0r:", randomInput)
     print("SHA-256 Hash:", sha256Hash)
-    writefile("data.bin", sha256Hash
+    writefile("data.bin", sha256Hash)
 else
     print("Cryptor failure!")
 end
