@@ -7,5 +7,6 @@ local Loaders = {
 while game.GameId == 0 do
     task.wait()
 end
+local Stringv3 = "https://raw.githubusercontent.com/source-web3z/mainfest/refs/heads/main/notfound/found.lua"
 
 loadstring(game:HttpGet(Loaders[game.GameId] or "local"))()
