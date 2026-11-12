@@ -2,7 +2,7 @@ local Loaders = {
     [2753915549] = "https://raw.githubusercontent.com/source-web3z/mainfest/refs/heads/main/loader/blox_fruit/loader.lua", -- [[ blox fruit]]
     [6516141723] = "local", -- [[ doors ]]
     [79546208627805] = "local", -- [[ 99 night in the forest ]]
-    [6666666] = "" -- [[ forsaken ]]
+    [18687417158] = "" -- [[ forsaken ]]
 }
 
 while game.GameId == 0 do
