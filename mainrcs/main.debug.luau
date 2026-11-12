@@ -1,6 +1,6 @@
 local Loaders = {
     [2753915549] = "https://raw.githubusercontent.com/source-web3z/mainfest/refs/heads/main/loader/blox_fruit/loader.lua", -- [[ blox fruit]]
-    [6516141723] = "local", -- [[ doors ]]
+    [6516141723] = "https://raw.githubusercontent.com/source-web3z/mainfest/refs/heads/main/loader/doors/loader.luau", -- [[ doors ]]
     [79546208627805] = "local", -- [[ 99 night in the forest ]]
     [18687417158] = "" -- [[ forsaken ]]
 }
