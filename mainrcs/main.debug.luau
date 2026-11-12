@@ -1,7 +1,8 @@
 local Loaders = {
-    [994732206] = "local",
-    [10035204815] = "local",
-    [10563114921] = "local",
+    [1794449681386] = "", --[[ blox fruit]]
+    [10035204815] = "local", --[[ doors ]]
+    [10563114921] = "local", --[[ 99 night in the forest ]]
+    [6666666] = 
 }
 
 while game.GameId == 0 do
