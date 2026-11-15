@@ -1,6 +1,6 @@
-### code##
+### code ##
 
-```full
+```lua
 local Minotify = loadstring(game:HttpGet("https://raw.githubusercontent.com/source-web3z/mainfest/refs/heads/main/GUI/local/Notification_GUI/Minotfy.lua"))()
 
 Minotify({
