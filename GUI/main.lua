@@ -11,6 +11,6 @@
 
 ]]
 -- [[ the this code are testing please don't user any gane :) ]]
-local Bazanv4 = ""
+local Bazanv4 = "https://raw.githubusercontent.com/source-web3z/mainfest/refs/heads/main/GUI/Bazan/v4/loader.lua"
 local Bazanv3 = "https://raw.githubusercontent.com/source-web3z/mainfest/refs/heads/main/GUI/Bazan/v3/loader.lua"
 loadstring(game:HttpGet(Bazanv4 and Bazanv3 ))()
