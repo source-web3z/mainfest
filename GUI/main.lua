@@ -10,3 +10,7 @@
     \/_/                           
 
 ]]
+-- [[ the this code are testing please don't user any gane :) ]]
+local Bazanv4 = ""
+local Bazanv3 = ""
+loadstring(game:HttpGet(Bazanv4 and Bazanv3 ))()
